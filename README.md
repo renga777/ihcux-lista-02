@@ -149,8 +149,8 @@ Menu fixo com comandos visíveis (não precisa decorar).
 Comando "help" ou "?" mostra explicações sem sair do fluxo.
 */
 
-![Foto do meu terminal](./LISTA1.png)
-![Foto do meu terminal](./LISTA1.png)
-![Foto do meu terminal](./LISTA1.png)
-![Foto do meu terminal](./LISTA1.png)
-![Foto do meu terminal](./LISTA1.png)
+![Foto do meu terminal](./Foto1_1.png)
+![Foto do meu terminal](./Foto1_2.png)
+![Foto do meu terminal](./Foto1_3.png)
+![Foto do meu terminal](./Foto1_4.png)
+![Foto do meu terminal](./Foto1_5.png)
